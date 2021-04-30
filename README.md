@@ -1,2 +1,2 @@
 # horto
-Prox3ecto educativo de desenvolvemento dun horto monitorizado
+Proxecto educativo de desenvolvemento dun horto monitorizado
